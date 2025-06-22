@@ -8,7 +8,8 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
 
-**Looking for the English version? 🤔 Scroll down! It’s right below.**
+<center><strong><span style="color:#45b39d;">Looking for the English version? 🤔 Scroll down! It’s right below.</span></strong></center>
+
 
 
 ## 📘 Resumo
@@ -53,7 +54,7 @@ A análise se baseou em sete estratégias extraídas da literatura:
 ### 🎲 Acesso aos dados
 O banco geral (zipado) pode ser acessado [aqui](https://drive.google.com/file/d/1qnrSXQTGxmx2vCcvAdv5ahs_QdH41tV8/view?usp=sharing). A coleta foi feita com o [pacote _rtweet_ para linguagem R](https://github.com/sinderskir/tese-antagonismo/blob/15821240401d9ebea34b9ce28b06d0419ca1e9c6/coletas_tese.R) entre janeiro e fevereiro de 2023, antes que a política de acesso à API do Twitter/X fosse alterada, limitando consideravelmente o uso de dados da plataforma em pesquisas.
 
-A triagem dos _tweets_ que continham as palavras-chave encontradas na Classificação Hierárquica Descendente (CHD), rodada pelo Iramuteq, foi feita usando o script [organizacao_corpus](https://github.com/sinderskir/tese-antagonismo/blob/main/organizacao-corpus.ipynb). Os termos utilizados para essa análise estão disponíveis no arquivo [termos-relevantes](https://drive.google.com/file/d/1g0ikJNah9NC82k-QdkUV7HPoiYobddQS/view?usp=sharing).
+A triagem dos _tweets_ que continham as palavras-chave encontradas na Classificação Hierárquica Descendente (CHD), rodada pelo IRaMuTeQ, foi feita usando o script [organizacao_corpus](https://github.com/sinderskir/tese-antagonismo/blob/main/organizacao-corpus.ipynb). Os termos utilizados para essa análise estão disponíveis no arquivo [termos-relevantes](https://drive.google.com/file/d/1g0ikJNah9NC82k-QdkUV7HPoiYobddQS/view?usp=sharing).
 
 A amostra estratificada multivariada para a análise de conteúdo clássica, criada a partir do banco geral, foi criada com [este script](https://github.com/sinderskir/tese-antagonismo/blob/main/montagem-amostra.ipynb), usando a biblioteca pandas para Python.
 
