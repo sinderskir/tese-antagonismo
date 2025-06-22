@@ -1,21 +1,14 @@
 # Antagonismo político nos discursos de parlamentares brasileiros
 Bancos de dados, scripts e análises relacionados à minha tese em Ciência Política pela Universidade Federal do Paraná (UFPR).
 
+![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-e8f6f3?style=flat-square)
+![Language](https://img.shields.io/badge/language-R%20%7C%20Python-d0ece7?style=flat-square)
+![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-a2d9ce?style=flat-square)
+![Status](https://img.shields.io/badge/status-Completed-73c6b6?style=flat-square)
+![Use](https://img.shields.io/badge/use-Academic%20Research-45b39d?style=flat-square)
+
+
 **Looking for the English version? 🤔 Scroll down! It’s right below.**
-
-
-
-![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-9cf?style=social)  
-![Language](https://img.shields.io/badge/language-R%20%7C%20Python-007acc?style=social)  
-![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-f7b731?style=social)  
-![Status](https://img.shields.io/badge/status-Completed-4caf50?style=social)  
-![Academic](https://img.shields.io/badge/use-Academic%20Research-6a1b9a?style=social)
-
-![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-9cf?style=flat-square)
-![Language](https://img.shields.io/badge/language-R%20%7C%20Python-007acc?style=flat-square)
-![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-f7b731?style=flat-square)
-![Status](https://img.shields.io/badge/status-Completed-4caf50?style=flat-square)
-![Academic](https://img.shields.io/badge/use-Academic%20Research-6a1b9a?style=flat-square)
 
 
 ## 📘 Resumo
