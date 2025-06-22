@@ -7,10 +7,10 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Status](https://img.shields.io/badge/status-Completed-45b39d?style=flat-square)
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
+> [!IMPORTANT]
+> Looking for the English version? 🤔 [Click here!](https://github.com/sinderskir/tese-antagonismo?tab=readme-ov-file#political-antagonism-in-the-discourse-of-brazilian-parliamentarians)
 
-Looking for the English version? 🤔 [Click here!](https://github.com/sinderskir/tese-antagonismo?tab=readme-ov-file#political-antagonism-in-the-discourse-of-brazilian-parliamentarians)
 
----
 
 ## 📘 Resumo
 Este repositório reúne os dados e análises da pesquisa de doutorado intitulada **"Conflito político e democracia: uma análise das manifestações estratégicas de antagonismo dos parlamentares brasileiros no Twitter"**. O texto completo está disponível [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/95033).
