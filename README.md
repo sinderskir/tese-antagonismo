@@ -8,7 +8,21 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
 
-<center><strong><span style="color:#45b39d;">Looking for the English version? 🤔 Scroll down! It’s right below.</span></strong></center>
+<p align="center">
+  <a href="#english-version" style="text-decoration:none;">
+    <span style="
+      background-color:#45b39d;
+      color:white;
+      padding:6px 12px;
+      border-radius:8px;
+      font-weight:bold;
+      font-family:sans-serif;
+      display:inline-block;">
+      🇬🇧 Looking for the English version? Click here!
+    </span>
+  </a>
+</p>
+
 
 
 
