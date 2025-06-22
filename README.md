@@ -4,6 +4,8 @@
 ![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-73c6b6?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Completed-45b39d?style=flat-square)
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
+
+
 Bancos de dados, scripts e análises relacionados à minha tese em Ciência Política pela Universidade Federal do Paraná (UFPR).
 
 
