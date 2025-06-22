@@ -4,11 +4,12 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 **Looking for the English version? 🤔 Scroll down! It’s right below.**
 
 
-![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-9cf.svg?style=flat)  
-![Language](https://img.shields.io/badge/language-R%20%7C%20Python-007acc?style=flat)  
-![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-f7b731?style=flat)  
-![Status](https://img.shields.io/badge/status-Completed-4caf50?style=flat)  
-![Academic](https://img.shields.io/badge/use-Academic%20Research-6a1b9a?style=flat)
+![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-9cf?style=social)  
+![Language](https://img.shields.io/badge/language-R%20%7C%20Python-007acc?style=social)  
+![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-f7b731?style=social)  
+![Status](https://img.shields.io/badge/status-Completed-4caf50?style=social)  
+![Academic](https://img.shields.io/badge/use-Academic%20Research-6a1b9a?style=social)
+
 
 
 ## 📘 Resumo
