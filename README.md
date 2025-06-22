@@ -1,11 +1,10 @@
 # Antagonismo político nos discursos de parlamentares brasileiros
-Bancos de dados, scripts e análises relacionados à minha tese em Ciência Política pela Universidade Federal do Paraná (UFPR).
-
 ![License](https://img.shields.io/badge/license-CC--BY--NC--SA%204.0-d0ece7?style=flat-square)
 ![Language](https://img.shields.io/badge/language-R%20%7C%20Python-a2d9ce?style=flat-square)
 ![Data size](https://img.shields.io/badge/data%20size-726k%20tweets-73c6b6?style=flat-square)
 ![Status](https://img.shields.io/badge/status-Completed-45b39d?style=flat-square)
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
+Bancos de dados, scripts e análises relacionados à minha tese em Ciência Política pela Universidade Federal do Paraná (UFPR).
 
 
 > [!TIP]
