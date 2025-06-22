@@ -8,8 +8,7 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
 
-[![](https://img.shields.io/badge/Looking_for_the_English_version%3F_Scroll_down!-d0ece7?style=flat-square&labelColor=45b39d&color=ffffff)](#english-version)
-
+<font color="red">Looking for the English version? 🤔 Scroll down! It’s right below.</font>
 
 
 ## 📘 Resumo
