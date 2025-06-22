@@ -8,9 +8,7 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
 
-<p style="background-color:#d0ece7; padding:10px; border-radius:6px; font-weight:bold;">
-  Looking for the English version? 🤔 <a href="#english-version" style="color:#145a32;">Scroll down! It’s right below.</a>
-</p>
+[![](https://img.shields.io/badge/Looking_for_the_English_version%3F_Scroll_down!-d0ece7?style=flat-square&labelColor=45b39d&color=ffffff)](#english-version)
 
 
 
