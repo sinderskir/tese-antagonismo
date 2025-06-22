@@ -10,6 +10,7 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 
 Looking for the English version? 🤔 [Click here!](https://github.com/sinderskir/tese-antagonismo?tab=readme-ov-file#political-antagonism-in-the-discourse-of-brazilian-parliamentarians)
 
+---
 
 ## 📘 Resumo
 Este repositório reúne os dados e análises da pesquisa de doutorado intitulada **"Conflito político e democracia: uma análise das manifestações estratégicas de antagonismo dos parlamentares brasileiros no Twitter"**. O texto completo está disponível [aqui](https://acervodigital.ufpr.br/xmlui/handle/1884/95033).
@@ -94,15 +95,11 @@ The analysis was based on seven strategies derived from the literature:
 - **Complaint**  
 - **Belligerence**
 
----
-
 ### 🎯 Hypotheses tested  
 1. “Petistas” (supporters of the Workers’ Party) and “leftists” would be the most frequently targeted enemies, especially by right-wing parliamentarians  
 2. Antagonism would often target democratic institutions (e.g., Supreme Court, press, electoral system)  
 3. Left and right would show similar levels of antagonism, but with **different targets**  
 4. Antagonistic discourse would be **more intense during the 2022 election year**
-
----
 
 ### 📈 Key findings  
 - The most frequent strategies were **conspiracy** and **stigmatization**  
