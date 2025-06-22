@@ -8,7 +8,7 @@ Bancos de dados, scripts e análises relacionados à minha tese em Ciência Pol�
 ![Use](https://img.shields.io/badge/use-Academic%20Research-16a085?style=flat-square)
 
 
-<font color="red">Looking for the English version? 🤔 Scroll down! It’s right below.</font>
+Looking for the English version? 🤔 [Click here!](https://github.com/sinderskir/tese-antagonismo?tab=readme-ov-file#political-antagonism-in-the-discourse-of-brazilian-parliamentarians)
 
 
 ## 📘 Resumo
